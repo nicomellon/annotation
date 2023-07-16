@@ -1,0 +1,8 @@
+[project]
+name = "annotation"
+version = "0.0.1"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+format = ["black"]
